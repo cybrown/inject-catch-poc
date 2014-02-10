@@ -1,0 +1,17 @@
+{
+  "name": "inject-catch-poc",
+  "version": "0.0.0",
+  "description": "Proof of Concept to inject code in catch clause in javascript files",
+  "main": "index.js",
+  "dependencies": {
+    "ast-traverse": "~0.1.1",
+    "escodegen": "~1.2.0",
+    "esprima": "~1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cy Brown <cy.brown59@gmail.com>",
+  "license": "ISC"
+}
